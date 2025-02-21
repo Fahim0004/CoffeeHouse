@@ -122,7 +122,7 @@ class _SplashScreenState extends State<SplashScreen>
         ),
         child: _buildText(
           'Book Your Relief',
-          fontSize: 20,
+          fontSize: 50,
           fontWeight: FontWeight.bold,
           color: Colors.brown,
         ),
